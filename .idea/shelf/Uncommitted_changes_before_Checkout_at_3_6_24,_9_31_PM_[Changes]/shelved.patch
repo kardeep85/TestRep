@@ -1,0 +1,79 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"22088b83-d703-4476-83dc-7a2ec7b4d49c\" name=\"Changes\" comment=\"First commit from intellji\">\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"EIS-999\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;kardeep85&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"recentNewPullRequestHead\">\n      <RepoCoordinatesHolder>\n        <option name=\"owner\" value=\"kardeep85\" />\n        <option name=\"repository\" value=\"TestRep\" />\n      </RepoCoordinatesHolder>\n    </option>\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"08e560c4-e13a-4ec2-ac95-82b623da0d14\" />\n        <option name=\"url\" value=\"https://github.com/kardeep85/TestRep\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"DEPENDENCY_CHECKER_PROBLEMS_TAB\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 8\n}</component>\n  <component name=\"ProjectId\" id=\"2dFOCYWDrYfGE0nqYl6IGVWc8f3\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\n      <module name=\"TestRep\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\n      <module name=\"TestRep\" />\n      <option name=\"filePath\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"22088b83-d703-4476-83dc-7a2ec7b4d49c\" name=\"Changes\" comment=\"\" />\n      <created>1709600232998</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1709600232998</updated>\n      <workItem from=\"1709600234937\" duration=\"2103000\" />\n      <workItem from=\"1709686672224\" duration=\"83000\" />\n      <workItem from=\"1709686773698\" duration=\"482000\" />\n      <workItem from=\"1709690978617\" duration=\"184000\" />\n      <workItem from=\"1709691169231\" duration=\"16000\" />\n      <workItem from=\"1709691189394\" duration=\"23000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"First commit from intellji\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1709600645327</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1709600645327</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"First commit from intellji\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1709600951252</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1709600951252</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"First commit from intellji\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First commit from intellji\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="22088b83-d703-4476-83dc-7a2ec7b4d49c" name="Changes" comment="First commit from intellji">
+-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-    </list>
++    <list default="true" id="22088b83-d703-4476-83dc-7a2ec7b4d49c" name="Changes" comment="HELLO" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -15,7 +13,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="EIS-999" />
++        <entry key="$PROJECT_DIR$" value="EIS-OO5" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -98,6 +96,7 @@
+       <workItem from="1709690978617" duration="184000" />
+       <workItem from="1709691169231" duration="16000" />
+       <workItem from="1709691189394" duration="23000" />
++      <workItem from="1709691216097" duration="585000" />
+     </task>
+     <task id="LOCAL-00001" summary="First commit from intellji">
+       <option name="closed" value="true" />
+@@ -115,7 +114,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1709600951252</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="HELLO">
++      <option name="closed" value="true" />
++      <created>1709691427518</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1709691427518</updated>
++    </task>
++    <task id="LOCAL-00004" summary="HELLO">
++      <option name="closed" value="true" />
++      <created>1709691720379</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1709691720379</updated>
++    </task>
++    <task id="LOCAL-00005" summary="HELLO">
++      <option name="closed" value="true" />
++      <created>1709691730038</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1709691730038</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -134,7 +157,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="First commit from intellji" />
+-    <option name="LAST_COMMIT_MESSAGE" value="First commit from intellji" />
++    <MESSAGE value="HELLO" />
++    <option name="LAST_COMMIT_MESSAGE" value="HELLO" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
