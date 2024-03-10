@@ -1,0 +1,60 @@
+
+
+jobs:
+  #build
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-java@v3
+      with:
+        java-version: '17'
+        distribution: 'temurin'
+
+    - name: Setup Gradle
+      uses: gradle/actions/setup-gradle@417ae3ccd767c252f5661f1ace9f835f9654f2b5 # v3.1.0
+
+    - name: Build with Gradle
+      run: ./gradlew build
+
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: Package
+        path: build/libs
+
+
+
+  #docker
+
+
+    docker:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+
+        # Output build artifacts to /github/workspace on the container.
+        - name: Containerized Build
+          uses: ./.github/actions/my-container-action
+
+        - name: Upload Build Artifacts
+          uses: actions/upload-artifact@v4
+          with:
+            name: workspace_artifacts
+            path: ${{ github.workspace }}
+        - name: Docker Tag
+          run: | 
+        
+           $docker login <artifactory_docker_registery>
+           $docker pull <image_name>:<image_tag>
+           $docker tag <image_name>:<image_tag> <artifactory_docker_registery>/<image_name>:<image_tag>
+           $docker push <artifactory_docker_registery>/<image_name>:<image_tag>
+
+  #deploy
+
+
+
+
+
+
